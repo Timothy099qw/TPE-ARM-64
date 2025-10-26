@@ -77,7 +77,7 @@ This project’s source code and scripts are released under the [MIT License].
 
 **Author:** *Timothy Y*  
 **Version:** 0.1.0
-**Repository:** [(https://github.com/Timothy099qw/TPE-ARM-64/)]
+**Repository:** [https://github.com/Timothy099qw/TPE-ARM-64/]
 
 ---
 

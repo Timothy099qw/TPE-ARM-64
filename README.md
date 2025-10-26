@@ -9,6 +9,7 @@ A lightweight, customized Windows Preinstallation Environment (WinPE) with vario
 You can download the current build here:
 
 🔗 **[Download from Mega.nz](https://mega.nz/folder/qVklkQaA#3SsqJ5FvnddSI_mypIPDhQ)**
+🔗 **[Download ISO from The Internet Archive](https://archive.org/details/win-pe-arm-64)**
 
 ---
 
